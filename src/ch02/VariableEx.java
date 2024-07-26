@@ -30,6 +30,8 @@ public class VariableEx {
 		// c = a + b; a에 할당이 안 되어 있기 때문에 오류남. 초기값 설정 필수
 		
 		/////
+//		변수의 범위 : 변수는 선언된 블럭 내에서만 사용이 가능함 
+		
 //		int d = 1;
 //		
 //		int (d === 1) {
@@ -40,11 +42,10 @@ public class VariableEx {
 //			  
 //		}
 //		
-//		System.out.println("aaa :" + aaa); 변수가 블럭 안에 있기 때문에 안에서만 사용 가능 
-//		System.out.println("aaa :" + bbb); 변수가 블럭 안에 있기 때문에 안에서만 사용 가능 
-//		System.out.println("d :" + d); 변수가 블럭 밖에 있어서 밖에서 사용 가능 
+//		System.out.println("aaa :" + aaa); 
+//		System.out.println("aaa :" + bbb); 
+//		System.out.println("d :" + d); 
 	
-		
 	}
 
 }
