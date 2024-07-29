@@ -1,10 +1,8 @@
-package ch03;
+package tr;
 
-public class CompareOperator4 {
+public class CompareOperator4Tr {
 
 	public static void main(String[] args) {
-		
-		// 비교연산자 (==, !=, <, <=, >, >=)
 		
 		int a = 10; 
 		int b = 20; 
@@ -23,5 +21,5 @@ public class CompareOperator4 {
 		System.out.println(result5);
 		System.out.println(result6);
 	}
-	
+
 }
