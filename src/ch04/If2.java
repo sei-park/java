@@ -23,7 +23,7 @@ public class If2 {
 			disCount = cost - (int)salesCost;
 			System.out.println("정가가 " + cost  + "인" + " 일반 등급의 할인가는 " + disCount + "입니다.");
 		} else if (grade == 2) {
-			salesCost = cost * 0.01;
+			salesCost = cost * 0.1;
 			disCount = cost - (int)salesCost;
 			System.out.println("정가가 " + cost + "인" + " 일반 등급의 할인가는 " +  disCount + "입니다.");
 		} else if (grade == 3) {
@@ -39,7 +39,7 @@ public class If2 {
 			disCount = cost - (int)salesCost;
 			System.out.println("정가가 " + cost + "인" + " 일반 등급의 할인가는 " +  disCount + "입니다.");
 		} else {
-			System.out.println("할인이 없습니다.");
+			System.out.println("다시 확인해 주세요.");
 		}
 		
 		
