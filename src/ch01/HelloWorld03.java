@@ -1,4 +1,4 @@
-package com.mycompany.ch01;
+package ch01;
 
 public class HelloWorld03 {
 

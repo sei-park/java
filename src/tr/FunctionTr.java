@@ -64,6 +64,4 @@ public class FunctionTr {
 		return numberResult;
 	}
 	
-
-
 }
