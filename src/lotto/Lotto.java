@@ -1094,12 +1094,19 @@ public class Lotto {
 			lotto[i] = random;
 		} 
 		
-		System.out.println();
-		
 		Arrays.sort(lotto); // 배열 오름차순 
-		for(int a : lotto) {
-			System.out.print(a + " / ");
+//		for(int a : lotto) {
+//			System.out.print(a + " / ");
+//		}
+		
+		for(int i = 0; i < lotto.length; i++) {
+			System.out.print(lotto[i]);
+			if(i != 5) {
+				System.out.print(" / ");
+			}
 		}
+		
+		
          
 
 		//while 구문 사용
