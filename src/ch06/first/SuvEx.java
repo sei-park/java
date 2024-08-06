@@ -17,7 +17,7 @@ public class SuvEx {
 		
 		System.out.println("------");
 		
-		int result01= suv.sum(1, 2); // return 있는 함수는 값을 받을 변수가 필요함
+		int result01= suv.sum(1, 2); // return 이 있는 함수는 값을 받을 변수가 필요함
 		System.out.println("a + b = " + result01);
 		
 		System.out.println("------");

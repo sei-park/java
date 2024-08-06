@@ -4,7 +4,7 @@ public class CarEx {
 
 	public static void main(String[] args) {
 		
-		// 객체 만들기 
+		// 객체 사용 
 		Car car = new Car(); // 변수는 클래스 이름과 같게 함 
 		
 		System.out.println("car.engine : " + car.engine);
