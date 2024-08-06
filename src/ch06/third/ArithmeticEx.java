@@ -11,11 +11,6 @@ public class ArithmeticEx {
 		System.out.println("a * b = " + arithmetic.multiply(2, 3));
 		System.out.println("a / b = " + arithmetic.division(6, 2));
 		System.out.println("a / b = " + arithmetic.division(2, 1));
-	
-		
-			  
-	  
-		
 	} 
 
 }

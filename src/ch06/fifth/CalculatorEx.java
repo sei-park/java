@@ -15,7 +15,7 @@ public class CalculatorEx {
 	 
 	}
 	
-	// static 함수에 사용하려면 선언하는 함수도 static 을 써야 함 
+	// static 함수에서 사용하려면 선언하는 함수도 static 을 써야 함 
 	public static int add(int a, int b) {
 		return a + b;
 	} 

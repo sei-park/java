@@ -6,11 +6,10 @@ public class Arithmetic {
 	
 	int a;
 	int b;
-	int sum;
 	
 	void sum(int a, int b) {
-		sum = a + b;
-		System.out.println("a + b = " +  sum);
+		int sum01 = a + b;
+		System.out.println("a + b = " + sum01);
 	}
 	
 	public int minus(int a, int b) {
