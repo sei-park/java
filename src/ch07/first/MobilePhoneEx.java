@@ -16,6 +16,18 @@ public class MobilePhoneEx {
 		dmbCellPhone.powerOn();
 		dmbCellPhone.powerOff();
 		dmbCellPhone.sendVoice("hello");
+		dmbCellPhone.powerOn(1);
+		
+		// 오버라이드 
+		dmbCellPhone.powerOn();
+		
+		Mobile mobile = new Mobile();
+		
+		System.out.println("----------");
+		
+		mobile.powerOff();
+		mobile.changeChannelDmb(1);
+		mobile.aaa();
 		
 		
 	}

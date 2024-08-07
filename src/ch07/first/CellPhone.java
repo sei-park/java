@@ -27,7 +27,7 @@ public class CellPhone {
 		System.out.println("전화를 끊습니다.");
 	}
 	void powerOn(int a) {
-		System.out.println("전원을 켭니다.2");
+		System.out.println(a + " 전원을 켭니다.2");
 	}
 	
 	
