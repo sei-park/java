@@ -6,7 +6,7 @@ public class DmbCellPhone extends CellPhone {
 	
 	// 오버라이드 : 부모클래스를 자식클래스에서 재정의 하는 것
 	// 클래스에서 마우스 오른쪽 클릭 -> Source -> Override/Implement Methods 
-	// -> 오버라이드 할 내용 선택
+	// -> 오버라이드 할 메소드 선택
 	@Override
 	void powerOn() {
 		System.out.println("자식의 전원을 켭니다.");
