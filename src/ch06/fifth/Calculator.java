@@ -10,7 +10,7 @@ public class Calculator {
 		return a + b;
 	}
 	
-	// static 는 객체를 생성하지 않고 field 를 사용 할 수 있음
+	// static 은 객체를 생성하지 않고 field 를 사용 할 수 있음
 	// 클래스 이름으로 바로 접근이 가능 
 	
 	
