@@ -1,4 +1,4 @@
-package tr.Ch07;
+package tr.ch07;
 
 public class MobilePhoneEx {
 

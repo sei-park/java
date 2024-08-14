@@ -1,4 +1,4 @@
-package tr.ch06Tr;
+package tr.ch06;
 
 public class Member {
 	
