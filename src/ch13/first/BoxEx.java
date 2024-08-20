@@ -4,6 +4,8 @@ public class BoxEx {
 
 	public static void main(String[] args) {
 		
+		// <> 안에는 데이터 타입이나 객체가 들어갈 수 있음 
+		
 		Box<String> box = new Box<>();
 		box.setT("Hello");
 		System.out.println(box.getT());
