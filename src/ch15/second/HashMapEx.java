@@ -7,6 +7,8 @@ public class HashMapEx {
 
 	public static void main(String[] args) {
 		
+		// Map(interface) > HashMap(class)
+		
 		Map<String, Integer> map = new HashMap<>();
 		
 		map.put("Hello", 10);
